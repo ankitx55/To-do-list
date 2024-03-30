@@ -1,0 +1,28 @@
+.App {
+    padding: 2rem;
+  }
+  
+  form input {
+    display: inline-block;
+    height: 3rem;
+    width: 65%;
+    margin-right: 5%;
+  }
+  
+  form button {
+    width: 20%;
+    padding: 1rem 0;
+  }
+  
+  li {
+    font-size: 1.5rem;
+  }
+  
+  li input {
+    margin: 0 1rem;
+  }
+  
+  del {
+    color: rgba(0, 0, 0, 0.3);
+  }
+  
